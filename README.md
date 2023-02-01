@@ -5,6 +5,7 @@
 1. Always build code with backward compatablity
 2. Dont edit Dist files directly always use build
 3. Core js is your friend.
+4. Write css and js code in ./source-assets folder only
 
 WEBPACK
 run npm install
