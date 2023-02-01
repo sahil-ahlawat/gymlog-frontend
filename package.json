@@ -1,0 +1,36 @@
+{
+  "name": "gymlog-frontend",
+  "version": "1.0.0",
+  "description": "This project is for gym log app frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-ahlawat/gymlog-frontend.git"
+  },
+  "author": "Sahil Ahlawat",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.0.0",
+    "breakpoint-sass": "^2.7.1",
+    "css-loader": "^2.0.0",
+    "cssnano": "^4.1.11",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.9.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "babel-loader": "^8.2.3",
+    "mocha": "^10.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sahil-ahlawat/gymlog-frontend/issues"
+  },
+  "homepage": "https://github.com/sahil-ahlawat/gymlog-frontend#readme"
+}
