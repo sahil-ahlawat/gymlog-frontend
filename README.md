@@ -9,6 +9,12 @@
 
 WEBPACK
 run npm install
+# ✅ Install Webpack globally
+npm install -g webpack webpack-cli
+
+# ✅ Create a symbolic link from the global package
+# to node_modules/ of current folder
+npm link webpack
 run npx webpack --config webpack.config.js --watch
 
 --watch option will keep looking for option and will build the file automatically
