@@ -13,6 +13,7 @@
   "author": "Sahil Ahlawat",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.21.4",
     "autoprefixer": "^9.0.0",
     "breakpoint-sass": "^2.7.1",
     "css-loader": "^2.0.0",
